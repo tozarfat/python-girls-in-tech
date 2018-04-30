@@ -1,3 +1,5 @@
 x="Merhaba"
 y="Etkinliğimize Hoşgeldin"
-print(x,y)
+k=2
+t=3
+print(x,y,k+t)
