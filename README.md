@@ -1,2 +1,2 @@
-# python-toplama
+# python-Kodları
 Hadi şimdi Python kodları yazmaya başlayalım...
